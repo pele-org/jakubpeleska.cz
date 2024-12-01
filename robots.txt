@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jakubpeleska.github.io/web/sitemap.xml
+Sitemap: https://pele-org.github.io/sitemap.xml
